@@ -1,0 +1,5 @@
+a=float(input("enter the first number:"))
+b=float(input("enter the second number"))
+a=int(a)
+b=int(b)
+print(a**b)
